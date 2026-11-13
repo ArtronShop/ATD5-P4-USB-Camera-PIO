@@ -1,0 +1,9 @@
+{
+  "name": "usb_host_uvc",
+  "version": "2.6.0",
+  "description": "Espressif USB Host UVC driver (from espressif/esp-usb)",
+  "build": {
+    "flags": [
+    ]
+  }
+}
